@@ -14,7 +14,7 @@ const Home = () => {
                 justifyContent: "center",
                 alignItems: "center",
                 padding: "1rem 2rem",
-                color: "white",
+                color: "black",
                 height: "calc(100vh - 100px)",
                 backgroundColor: "#eee",
                 }}
@@ -51,7 +51,7 @@ const Home = () => {
                             <FaGithub /> Github
                         </button>
                         </a>
-                        <a href="/page">
+                        <a href="#/page">
                         <button
                             className="primary white"
                             style={{
