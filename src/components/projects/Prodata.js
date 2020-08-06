@@ -3,6 +3,7 @@ import blog1 from '../../images/project-2.PNG';
 import blog2 from '../../images/project-4.PNG';
 import blog3 from '../../images/project-6.PNG';
 import blog4 from '../../images/project-1.PNG';
+import blog4 from '../../images/project-7.PNG';
 
 
 const   Pdata = [
