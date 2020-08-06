@@ -36,7 +36,7 @@ const Home = () => {
                 </p>
                     <div>
                         <a
-                        href="https://github.com/ahsinrasheed5/animated-web"
+                        href="https://github.com/ahsinrasheed5/blooger-Master_Tech"
                         target="_blank"
                         rel="noopener noreferrer"
                         >
@@ -51,7 +51,7 @@ const Home = () => {
                             <FaGithub /> Github
                         </button>
                         </a>
-                        <a href="#/page">
+                        <a href="http://project-5-bootcamp2020.surge.sh/page">
                         <button
                             className="primary white"
                             style={{
