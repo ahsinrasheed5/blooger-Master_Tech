@@ -3,7 +3,7 @@ import blog1 from '../../images/project-2.PNG';
 import blog2 from '../../images/project-4.PNG';
 import blog3 from '../../images/project-6.PNG';
 import blog4 from '../../images/project-1.PNG';
-import blog4 from '../../images/project-7.PNG';
+import blog5 from '../../images/project-7.PNG';
 
 
 const   Pdata = [
@@ -34,6 +34,11 @@ const   Pdata = [
         imgsrc: blog4,
         desc: "Bootcamp project 1 simple react app",
         link: "http://bootcampclass-project-1.surge.sh/"
+    },
+    {
+        imgsrc: blog5,
+        desc: "Bootcamp project 5 simple react app",
+        link: "http://project-5-bootcamp2020.surge.sh"
     },
    
 ]
